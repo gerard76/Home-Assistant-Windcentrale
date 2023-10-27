@@ -74,7 +74,7 @@ Go to Settings and then Devices & Service, select Integrations and search for th
 ### History
 
 These sensors show how much power the wind turbine has delivered over a certain time.
-These sensors are not displaying live data. These senors are updated around noon the following day.
+These sensors are not displaying live data. These sensors are updated around noon the following day.
 
 |ID|Type|Description|Unit of Measurement|
 |----------|------------|------------|------------|
